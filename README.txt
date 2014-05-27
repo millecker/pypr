@@ -10,5 +10,6 @@ Contact: joan petur petersen @ gmail.com (remove spaces)
 
 This project can be found on sourceforge: http://pypr.sourceforge.net/
 
+To install PyPR run the following command:
 
-
+sudo python2.7 setup.py install
